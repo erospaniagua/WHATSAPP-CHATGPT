@@ -7,6 +7,24 @@ const configuration = new Configuration({
 const openai = new OpenAIApi(configuration);
 
 async function runCompletion (message) {
+    // const { from, body } = message;
+    // const queue=[]
+    // const completion = await openai.sendMessage(body,{
+    //     conversationId: !queue.length 
+    //     ? undefined 
+    //     :queue[queue.length - 1].conversationId,
+    //     perentMessageId: !queue.length
+    //     ? undefined 
+    //     :queue[queue.length - 1].id,
+    // });
+
+    // queue.push(completion);
+
+    //     const parseMesage = {
+    //         ...completion,
+    //         awnser: completion, text,
+    //     };
+    //     sendFlowSimple([parseMesage], from)
     const completion = await openai.createCompletion({
         model: "text-davinci-003",
         prompt: message,
