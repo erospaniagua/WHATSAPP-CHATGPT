@@ -6,7 +6,7 @@ const MockAdapter = require('@bot-whatsapp/database/mock')
 const CHATGPT = require('./chatgpt')
 
 const flowChatGPT = addKeyword('ia')
-    .addAnswer('Preguntame lo que quieras',{capture:true}, async (ctx, {flowDynamic}) => {
+    .addAnswer('En que te puedo ayudar?',{capture:true}, async (ctx, {flowDynamic}) => {
         var message = ctx.body;
       await CHATGPT.runCompletion(message).then(result => {
         console.log (message);
