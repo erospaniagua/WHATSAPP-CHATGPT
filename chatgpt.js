@@ -6,31 +6,27 @@ const configuration = new Configuration({
 });
 const openai = new OpenAIApi(configuration);
 
-async function runCompletion (message) {
-    // const { from, body } = message;
-    // const queue=[]
-    // const completion = await openai.sendMessage(body,{
-    //     conversationId: !queue.length 
-    //     ? undefined 
-    //     :queue[queue.length - 1].conversationId,
-    //     perentMessageId: !queue.length
-    //     ? undefined 
-    //     :queue[queue.length - 1].id,
-    // });
-
-    // queue.push(completion);
-
-    //     const parseMesage = {
-    //         ...completion,
-    //         awnser: completion, text,
-    //     };
-    //     sendFlowSimple([parseMesage], from)
-    const completion = await openai.createCompletion({
-        model: "text-davinci-003",
-        prompt: message,
-        max_tokens: 200,
-    });
-    return completion.data.choices[0].text;
+async function runCompletion (message){
+    const completion = await openai.createChatCompletion({
+        model: "gpt-3.5-turbo",
+        messages: [{"role": "system", "content": "You are a helpful assistant that makes a lot of jokes."},
+                   {"role": "user", "content": message}
+                  ],
+      });
+      console.log(completion.data.choices[0].message);
+      return completion.data.choices[0].message.content;
+    
 }
-
 module.exports={runCompletion}
+
+// async function runCompletion (message) {
+
+//     const completion = await openai.createCompletion({
+//         model: "text-davinci-003",
+//         prompt: message,
+//         max_tokens: 400,
+//     });
+//     return completion.data.choices[0].text;
+// }
+
+// module.exports={runCompletion}
