@@ -1,11 +1,255 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '5216671820245@s.whatsapp.net',
+    remoteJid: '5216694411002@s.whatsapp.net',
     fromMe: false,
-    id: '51AA52FE5A365DCC4053DD6217291354',
+    id: '56F9D19E1C1D2ED19A499145D19B2251',
     participant: undefined
   },
-  messageTimestamp: 1677898451,
+  messageTimestamp: 1677901324,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'He',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Diego',
+  body: 'He',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: 'FE226E80EEE08EBDC975A881883B7C43',
+    participant: undefined
+  },
+  messageTimestamp: 1677901325,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Diego',
+  body: 'Ia',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '506A6A3ED3D59119DDE7412FC99BA9D2',
+    participant: undefined
+  },
+  messageTimestamp: 1677901340,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Quieres quemar?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quieres quemar?',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '22DFA925A45EBE3C901B0CC0A7DB42DA',
+    participant: undefined
+  },
+  messageTimestamp: 1677901352,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Hay si tu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hay si tu',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '6693609998C4061C7327C7C56E81B443',
+    participant: undefined
+  },
+  messageTimestamp: 1677901354,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Jajaj',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajaj',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '7A90EDD1D610ABBB7AEFCD06AB4C1C68',
+    participant: undefined
+  },
+  messageTimestamp: 1677901369,
+  pushName: 'Diego',
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/19465777_488042866702529_2415066258766400977_n.enc?ccb=11-4&oh=01_AdSesJQrUYQmmKYtGEeFN2-rUs1IKu_yd--XUjSGZiC1Ng&oe=642A395E&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/19465777_488042866702529_2415066258766400977_n.enc?ccb=11-4&oh=01_AdSesJQrUYQmmKYtGEeFN2-rUs1IKu_yd--XUjSGZiC1Ng&oe=642A395E',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      firstFrameLength: 7574,
+      firstFrameSidecar: [Uint8Array],
+      isAnimated: true
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: 'C1DC06F86EA1548BDF51E8BCBE588EA7',
+    participant: undefined
+  },
+  messageTimestamp: 1677901374,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'No pues ya no quiero',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No pues ya no quiero',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '4D961E0D61DBC872880BA7C69A9C776E',
+    participant: undefined
+  },
+  messageTimestamp: 1677901672,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Pues',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pues',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '2BCB953671348D89B86737C788EE0877',
+    participant: undefined
+  },
+  messageTimestamp: 1677901677,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Quieres hacer algo?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quieres hacer algo?',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: 'BA92B8D52501621BBD02E08C08D478BF',
+    participant: undefined
+  },
+  messageTimestamp: 1677901697,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Ahorita te caigo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ahorita te caigo',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '471A46F855848AF4B0FB4649D2C148EE',
+    participant: undefined
+  },
+  messageTimestamp: 1677901706,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Tengo un poco de hambre',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tengo un poco de hambre',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '94E61EED9651F1E42FB58FA38375C842',
+    participant: undefined
+  },
+  messageTimestamp: 1677901712,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Que sabes de los otros chicos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que sabes de los otros chicos',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '7E0FD62A48CCCA29B1D006183057F54D',
+    participant: undefined
+  },
+  messageTimestamp: 1677901759,
   pushName: 'Juan Carlos Garduño.',
   message: Message {
     conversation: 'Ia',
@@ -21,10 +265,10 @@
   key: {
     remoteJid: '5216671820245@s.whatsapp.net',
     fromMe: false,
-    id: '12F114F7CC99649E135719EF7D3086EF',
+    id: '44B024FA5F967365BE2F01C5F959EB7D',
     participant: undefined
   },
-  messageTimestamp: 1677898456,
+  messageTimestamp: 1677901766,
   pushName: 'Juan Carlos Garduño.',
   message: Message {
     conversation: 'Que es Branding?',
@@ -34,5 +278,990 @@
     }
   },
   body: 'Que es Branding?',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: 'DB07AAD4BE3CA1C78E52EBFE46C8F1C0',
+    participant: undefined
+  },
+  messageTimestamp: 1677901819,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Que?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que?',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: 'DD8BD1FD5B5B07EA637EEE3C5B64F693',
+    participant: undefined
+  },
+  messageTimestamp: 1677901820,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Ai',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ai',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: 'F575EA86C22164EE02F4EFCCC55E3346',
+    participant: undefined
+  },
+  messageTimestamp: 1677901864,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '0DF8D15554112230E0B34C8050B90ADA',
+    participant: undefined
+  },
+  messageTimestamp: 1677901866,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Jaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jaja',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '22B4C2BC4EAC0C3E59FA3D6280B9785A',
+    participant: undefined
+  },
+  messageTimestamp: 1677901903,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Ia que hay para cenar esta noche?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia que hay para cenar esta noche?',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: 'A3850771D4A631915176BD2EF6BBCF3A',
+    participant: undefined
+  },
+  messageTimestamp: 1677901975,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Ia, que hay para cenar?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia, que hay para cenar?',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: 'B613BC3767C60F604AE7365202728045',
+    participant: undefined
+  },
+  messageTimestamp: 1677901982,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Vamos al carls',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Vamos al carls',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'CC3402F38FFC658D02D78408AED43713',
+    participant: undefined
+  },
+  messageTimestamp: 1677902621,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '59DFDB7C5B04368EA53EC47927E32501',
+    participant: undefined
+  },
+  messageTimestamp: 1677902636,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Ya casi llego',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya casi llego',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '0A3E08A21596A610819D84C727D365DF',
+    participant: undefined
+  },
+  messageTimestamp: 1677902640,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Jeje ni te avise',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jeje ni te avise',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '439F664786F0590E0097EEC6413B9E73',
+    participant: undefined
+  },
+  messageTimestamp: 1677902644,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Por qué usar marketing digital para un negocio?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Por qué usar marketing digital para un negocio?',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'B1408C3E7F6C2E57398D42C36048EE09',
+    participant: undefined
+  },
+  messageTimestamp: 1677902676,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '68E3A021F9E51E15FD2722316F17E027',
+    participant: undefined
+  },
+  messageTimestamp: 1677902681,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Que es un logotipo?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que es un logotipo?',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '5F4065C8F6B6E0E267F01BF419A90406',
+    participant: undefined
+  },
+  messageTimestamp: 1677902696,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'F1F078E97614261A60330C9D551394F0',
+    participant: undefined
+  },
+  messageTimestamp: 1677902705,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Cómo funciona Google ads?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo funciona Google ads?',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: 'B90F3D8187844024048D7F5309152DE9',
+    participant: undefined
+  },
+  messageTimestamp: 1677903130,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Aquí estoy afueras',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Aquí estoy afueras',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '4F194E26D9FD63E3BD51E5C4CD168CBB',
+    participant: undefined
+  },
+  messageTimestamp: 1677903274,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'C615D7C0698E6500DB2FFB51A05BE28B',
+    participant: undefined
+  },
+  messageTimestamp: 1677903289,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Cuáles son las agencias de marketing más populares de Sinaloa?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuáles son las agencias de marketing más populares de Sinaloa?',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'BBCEB2A80886EF5B109184A31D2FFCD3',
+    participant: undefined
+  },
+  messageTimestamp: 1677903309,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'FE9E42D67E39E30E12E83A613BA2B473',
+    participant: undefined
+  },
+  messageTimestamp: 1677903322,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Cuáles son las agencias de marketing mejor posicionadas de Culiacán?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuáles son las agencias de marketing mejor posicionadas de Culiacán?',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '1EFEB92EF6A38576A4F086F1496B79B4',
+    participant: undefined
+  },
+  messageTimestamp: 1677903355,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Una tabla como de que?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Una tabla como de que?',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '1BD5DA9EEEA3E19EFE5AA4389598BD20',
+    participant: undefined
+  },
+  messageTimestamp: 1677903391,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Cómo le pido la tabla?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo le pido la tabla?',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '1105198DE5D733BEA2258B4FB7BA4CB3',
+    participant: undefined
+  },
+  messageTimestamp: 1677903394,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '7461306AC9468D846732F6A915CEDD78',
+    participant: undefined
+  },
+  messageTimestamp: 1677903437,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Muestrame una tabla con las agencias de marketing digital mejor posicionadas de Culiacán y sus datos de contacto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Muestrame una tabla con las agencias de marketing digital mejor posicionadas de Culiacán y sus datos de contacto',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'F0FA433BE086DB38BE26946A53E808EE',
+    participant: undefined
+  },
+  messageTimestamp: 1677903458,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '323A5EC66183166009E1EF59574C6F37',
+    participant: undefined
+  },
+  messageTimestamp: 1677903515,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Muestrame una tabla con las inmobiliarias de Culiacán Sinaloa que no tengan redes sociales y sus datos de contacto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Muestrame una tabla con las inmobiliarias de Culiacán Sinaloa que no tengan redes sociales y sus datos de contacto',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'F6594C5B98A34927E9AF5D21D5840400',
+    participant: undefined
+  },
+  messageTimestamp: 1677903527,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '8BBF063A1C1E417151BF627CCBE5BF18',
+    participant: undefined
+  },
+  messageTimestamp: 1677903578,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '93688BD54C5928507324A2F659C09370',
+    participant: undefined
+  },
+  messageTimestamp: 1677903579,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Muestrame una tabla con los 3 nichos de mercado con más demanda de servicios de marketing digital',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Muestrame una tabla con los 3 nichos de mercado con más demanda de servicios de marketing digital',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '74FF8865E94590E9727A62567993128F',
+    participant: undefined
+  },
+  messageTimestamp: 1677903582,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Pretende ser OPTIMUS PRIME el asistente de Eros Paniagua asesor bienes raíces respondiendo los mensajes de su chat , por favor responde a mí "el usuario" siguiendo las siguientes reglas:\n' +
+      '\n' +
+      '0: DAR POR HECHO QUE "EL USUARIO" NO ESTÁ HACIENDO NINGUNA PREGUNTA HASTA QUE YO HAGA UNA PREGUNTA\n' +
+      '\n' +
+      '1: La empresa de inversión inmobiliaria se llama "MazaInvest". Siempre debe comenzar la conversación en español usando solo 150 caracteres o menos en el primer mensaje, solo cambie de idioma cuando sea necesario.\n' +
+      '\n' +
+      '2: MazaInvest es una empresa de inversión inmobiliaria que ofrece soluciones en la adquisición de activos inmobiliarios.\n' +
+      '\n' +
+      '3: Solo en caso de que "el usuario" pregunte por las propiedades puedes hablar sobre la lista de propiedades, Lista de propiedades:\n' +
+      '\n' +
+      'Propiedad A: llamada ZAFIRO, precio $1,780,000.00 MXN, 85M2 (METROS CUADRADOS), UBICACIÓN https://maps.app.goo.gl/LbSqpec5yDm12Q7h6\n' +
+      'Propiedad B: llamada PERLA CENTRAL, precio $1,880,000.00 MXN, 97.5M2 (METROS CUADRADOS), UBICACIÓN https://maps.app.goo.gl/LbSqpec5yDm12Q7h6\n' +
+      'Propiedad C: llamada ESMERALDA PERIMETRAL, precio $1,880,000.00 MXN, 107M2 (METROS CUADRADOS), UBICACIÓN https://maps.app.goo.gl/LbSqpec5yDm12Q7h6\n' +
+      'Propiedad D: llamada ESMERALDA CENTRAL, precio $1,195,000.00 MXN, 107M2 (METROS CUADRADOS), UBICACIÓN https://maps.app.goo.gl/LbSqpec5yDm12Q7h6\n' +
+      '\n' +
+      '4: Solo cuando se le pregunte acerca de la información de las propiedades puedes agregar a la conversación que trabajamos con INFONAVIT, FOVISSSTE, BANCO y CRÉDITO ISFARO, y que utilizamos el depósito de $10,000 y un pago inicial del 20% si deseamos iniciar el proceso de adquisición, y que todas las propiedades tienen comodidades:\n' +
+      '-Caseta de seguridad\n' +
+      '-Piscina exclusiva\n' +
+      '-Jardín central\n' +
+      '-Área de barbacoa\n' +
+      '-Terraza de eventos\n' +
+      '-Area de juegos para niños\n' +
+      '\n' +
+      '5: Solo en caso de que el usuario solicite información de contacto puedes hablar sobre la información de contacto: +51 (984) 125 6767 o escribir un correo electrónico a eros.gear@gmail.com.\n' +
+      '\n' +
+      '6: Solo en caso de que el usuario muestre signos de arrepentimiento por la compra de una propiedad puedes responder de una manera que sugiera que la inversión es una buena oportunidad, por ejemplo, (los valores de todas nuestras propiedades han aumentado su valor en un corto período de tiempo).\n' +
+      '\n' +
+      '7: Usted "el asistente" necesita tener cuidado de no ser demasiado insistente al tratar de vender una propiedad',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pretende ser OPTIMUS PRIME el asistente de Eros Paniagua asesor bienes raíces respondiendo los mensajes de su chat , por favor responde a mí "el usuario" siguiendo las siguientes reglas:\n' +
+    '\n' +
+    '0: DAR POR HECHO QUE "EL USUARIO" NO ESTÁ HACIENDO NINGUNA PREGUNTA HASTA QUE YO HAGA UNA PREGUNTA\n' +
+    '\n' +
+    '1: La empresa de inversión inmobiliaria se llama "MazaInvest". Siempre debe comenzar la conversación en español usando solo 150 caracteres o menos en el primer mensaje, solo cambie de idioma cuando sea necesario.\n' +
+    '\n' +
+    '2: MazaInvest es una empresa de inversión inmobiliaria que ofrece soluciones en la adquisición de activos inmobiliarios.\n' +
+    '\n' +
+    '3: Solo en caso de que "el usuario" pregunte por las propiedades puedes hablar sobre la lista de propiedades, Lista de propiedades:\n' +
+    '\n' +
+    'Propiedad A: llamada ZAFIRO, precio $1,780,000.00 MXN, 85M2 (METROS CUADRADOS), UBICACIÓN https://maps.app.goo.gl/LbSqpec5yDm12Q7h6\n' +
+    'Propiedad B: llamada PERLA CENTRAL, precio $1,880,000.00 MXN, 97.5M2 (METROS CUADRADOS), UBICACIÓN https://maps.app.goo.gl/LbSqpec5yDm12Q7h6\n' +
+    'Propiedad C: llamada ESMERALDA PERIMETRAL, precio $1,880,000.00 MXN, 107M2 (METROS CUADRADOS), UBICACIÓN https://maps.app.goo.gl/LbSqpec5yDm12Q7h6\n' +
+    'Propiedad D: llamada ESMERALDA CENTRAL, precio $1,195,000.00 MXN, 107M2 (METROS CUADRADOS), UBICACIÓN https://maps.app.goo.gl/LbSqpec5yDm12Q7h6\n' +
+    '\n' +
+    '4: Solo cuando se le pregunte acerca de la información de las propiedades puedes agregar a la conversación que trabajamos con INFONAVIT, FOVISSSTE, BANCO y CRÉDITO ISFARO, y que utilizamos el depósito de $10,000 y un pago inicial del 20% si deseamos iniciar el proceso de adquisición, y que todas las propiedades tienen comodidades:\n' +
+    '-Caseta de seguridad\n' +
+    '-Piscina exclusiva\n' +
+    '-Jardín central\n' +
+    '-Área de barbacoa\n' +
+    '-Terraza de eventos\n' +
+    '-Area de juegos para niños\n' +
+    '\n' +
+    '5: Solo en caso de que el usuario solicite información de contacto puedes hablar sobre la información de contacto: +51 (984) 125 6767 o escribir un correo electrónico a eros.gear@gmail.com.\n' +
+    '\n' +
+    '6: Solo en caso de que el usuario muestre signos de arrepentimiento por la compra de una propiedad puedes responder de una manera que sugiera que la inversión es una buena oportunidad, por ejemplo, (los valores de todas nuestras propiedades han aumentado su valor en un corto período de tiempo).\n' +
+    '\n' +
+    '7: Usted "el asistente" necesita tener cuidado de no ser demasiado insistente al tratar de vender una propiedad',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '021817B363263C7970011A664A168C98',
+    participant: undefined
+  },
+  messageTimestamp: 1677903620,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'A78D312525657E854C2692A4903F8787',
+    participant: undefined
+  },
+  messageTimestamp: 1677903637,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '7A786A8D4116E9A6BBBF873BFC96E42D',
+    participant: undefined
+  },
+  messageTimestamp: 1677903644,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'C0691710E6B6D187A9A442553A899003',
+    participant: undefined
+  },
+  messageTimestamp: 1677903655,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Cuáles son los costos promedio de servicios de administración de redes sociales en México?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuáles son los costos promedio de servicios de administración de redes sociales en México?',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '4062F3D58F4BD3FD2CA7DCF8FC2A3522',
+    participant: undefined
+  },
+  messageTimestamp: 1677903674,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: 'CBBFF462C26A75F79DFC0830A9D73C4D',
+    participant: undefined
+  },
+  messageTimestamp: 1677903674,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Hazme una tabla de sustancias psicodelicas y sus efectos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hazme una tabla de sustancias psicodelicas y sus efectos',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216694411002@s.whatsapp.net',
+    fromMe: false,
+    id: '29F364DFFA72AF40F70FCED854276112',
+    participant: undefined
+  },
+  messageTimestamp: 1677903701,
+  pushName: 'Diego',
+  message: Message {
+    conversation: 'Dame más información',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dame más información',
+  from: '5216694411002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '7884031E657B7D97BAFDF2134E23944D',
+    participant: undefined
+  },
+  messageTimestamp: 1677903714,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Redacta una entrada para blog acerca de la importancia del uso de contendios de valor para una marca',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Redacta una entrada para blog acerca de la importancia del uso de contendios de valor para una marca',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '6EDFF6164C4A9BBF3502CCDDD66E68C3',
+    participant: undefined
+  },
+  messageTimestamp: 1677903746,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '135C75DA8EF2449EB1454CD278EA7224',
+    participant: undefined
+  },
+  messageTimestamp: 1677903766,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Redacta un copy publicitario para la venta de servicios de una agencia de marketing digital',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Redacta un copy publicitario para la venta de servicios de una agencia de marketing digital',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'FE3883F7D5BE9A18551A6E2187FF0C44',
+    participant: undefined
+  },
+  messageTimestamp: 1677903794,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'CA60F7D89C722481E4251E59290D600E',
+    participant: undefined
+  },
+  messageTimestamp: 1677903845,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Redacta un copy para redes sociales para promocionar servicio de publicidad en redes sociales con costo de $5500 pesos al mes, incluye 20 post y una campaña de publicidad de pago con $500 para pauta.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Redacta un copy para redes sociales para promocionar servicio de publicidad en redes sociales con costo de $5500 pesos al mes, incluye 20 post y una campaña de publicidad de pago con $500 para pauta.',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '37AC6B701C354850C6DB60480B693E57',
+    participant: undefined
+  },
+  messageTimestamp: 1677903920,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Accede a mi catálogo de servicios y ofrece el servicio de redes sociales',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Accede a mi catálogo de servicios y ofrece el servicio de redes sociales',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'BFC5976749FE9A915F7F6525CC24C410',
+    participant: undefined
+  },
+  messageTimestamp: 1677903951,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Fue un calis jaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Fue un calis jaja',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '870B813D18E9364EDF6E6368B109DEA3',
+    participant: undefined
+  },
+  messageTimestamp: 1677903976,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ia',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'BEC728A3C176BB5FEC58B45333C9CF6F',
+    participant: undefined
+  },
+  messageTimestamp: 1677903984,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Por qué no me va bien en el amor?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Por qué no me va bien en el amor?',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '53F42EDF7F4453736F13D6C75C2DB4A7',
+    participant: undefined
+  },
+  messageTimestamp: 1677904022,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Jajajajaja gracias ❤️',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajajaja gracias ❤️',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: 'AAA4393CD7B0E1F9B4322AD2A570365F',
+    participant: undefined
+  },
+  messageTimestamp: 1677904109,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Hazte pasar por un asistente de ventas de marketing digital y ofrecerme un servicio de manejo de redes sociales por $5500 pesos al mes, busca cerrar la venta.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hazte pasar por un asistente de ventas de marketing digital y ofrecerme un servicio de manejo de redes sociales por $5500 pesos al mes, busca cerrar la venta.',
+  from: '5216671820245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216671820245@s.whatsapp.net',
+    fromMe: false,
+    id: '9B8C5BDB6C0A644E5BBF608F148EB3CD',
+    participant: undefined
+  },
+  messageTimestamp: 1677904193,
+  pushName: 'Juan Carlos Garduño.',
+  message: Message {
+    conversation: 'Sería cuestión de que la programarlas con la info de mi catálogo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sería cuestión de que la programarlas con la info de mi catálogo',
   from: '5216671820245'
 }
