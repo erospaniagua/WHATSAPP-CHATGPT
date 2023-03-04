@@ -1,12 +1,12 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '5214428403087@s.whatsapp.net',
+    remoteJid: '5216671820245@s.whatsapp.net',
     fromMe: false,
-    id: '3A12284039E12E35D63D',
+    id: '51AA52FE5A365DCC4053DD6217291354',
     participant: undefined
   },
-  messageTimestamp: 1677821732,
-  pushName: 'CARLOS',
+  messageTimestamp: 1677898451,
+  pushName: 'Juan Carlos Garduño.',
   message: Message {
     conversation: 'Ia',
     messageContextInfo: MessageContextInfo {
@@ -15,214 +15,24 @@
     }
   },
   body: 'Ia',
-  from: '5214428403087'
+  from: '5216671820245'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5214428403087@s.whatsapp.net',
+    remoteJid: '5216671820245@s.whatsapp.net',
     fromMe: false,
-    id: '3AEE50F68936E1E198CC',
+    id: '12F114F7CC99649E135719EF7D3086EF',
     participant: undefined
   },
-  messageTimestamp: 1677821737,
-  pushName: 'CARLOS',
+  messageTimestamp: 1677898456,
+  pushName: 'Juan Carlos Garduño.',
   message: Message {
-    conversation: 'Hola',
+    conversation: 'Que es Branding?',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Hola',
-  from: '5214428403087'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5214428403087@s.whatsapp.net',
-    fromMe: false,
-    id: '3A290A8EE78FE6410F9B',
-    participant: undefined
-  },
-  messageTimestamp: 1677821752,
-  pushName: 'CARLOS',
-  message: Message {
-    conversation: 'Como estas?',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Como estas?',
-  from: '5214428403087'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5214428403087@s.whatsapp.net',
-    fromMe: false,
-    id: '3A9140038B0027B22B76',
-    participant: undefined
-  },
-  messageTimestamp: 1677821763,
-  pushName: 'CARLOS',
-  message: Message {
-    conversation: 'Cuanto es 4+5',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Cuanto es 4+5',
-  from: '5214428403087'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5214428403087@s.whatsapp.net',
-    fromMe: false,
-    id: '3AD148504FB6F3E93C56',
-    participant: undefined
-  },
-  messageTimestamp: 1677821784,
-  pushName: 'CARLOS',
-  message: Message {
-    conversation: 'Ia',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ia',
-  from: '5214428403087'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5214428403087@s.whatsapp.net',
-    fromMe: false,
-    id: '3AC4D41B358F3A5641E4',
-    participant: undefined
-  },
-  messageTimestamp: 1677821792,
-  pushName: 'CARLOS',
-  message: Message {
-    conversation: 'Cuanto es 4-5',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Cuanto es 4-5',
-  from: '5214428403087'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5214428403087@s.whatsapp.net',
-    fromMe: false,
-    id: '3AD191CBBEBCC6680A79',
-    participant: undefined
-  },
-  messageTimestamp: 1677821808,
-  pushName: 'CARLOS',
-  message: Message {
-    conversation: 'Cual es la capital de Queretaro',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Cual es la capital de Queretaro',
-  from: '5214428403087'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5214428403087@s.whatsapp.net',
-    fromMe: false,
-    id: '3AB545F00D97F2FFCB7F',
-    participant: undefined
-  },
-  messageTimestamp: 1677821836,
-  pushName: 'CARLOS',
-  message: Message {
-    conversation: 'Ia cuanto es 2-2',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ia cuanto es 2-2',
-  from: '5214428403087'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5214428403087@s.whatsapp.net',
-    fromMe: false,
-    id: '3A8505886EEFF3B68E59',
-    participant: undefined
-  },
-  messageTimestamp: 1677821863,
-  pushName: 'CARLOS',
-  message: Message {
-    conversation: 'Ia',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ia',
-  from: '5214428403087'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5214428403087@s.whatsapp.net',
-    fromMe: false,
-    id: '3A9CA8D40EA47723DF6A',
-    participant: undefined
-  },
-  messageTimestamp: 1677821869,
-  pushName: 'CARLOS',
-  message: Message {
-    conversation: 'Que es chatgpt?',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Que es chatgpt?',
-  from: '5214428403087'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5214428403087@s.whatsapp.net',
-    fromMe: false,
-    id: '3AEED93ABD7E2FCA08DA',
-    participant: undefined
-  },
-  messageTimestamp: 1677821910,
-  pushName: 'CARLOS',
-  message: Message {
-    conversation: 'Ia',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ia',
-  from: '5214428403087'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5214428403087@s.whatsapp.net',
-    fromMe: false,
-    id: '3A4B3B07C017B4CBCA28',
-    participant: undefined
-  },
-  messageTimestamp: 1677821933,
-  pushName: 'CARLOS',
-  message: Message {
-    conversation: 'Que es la ia?',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Que es la ia?',
-  from: '5214428403087'
+  body: 'Que es Branding?',
+  from: '5216671820245'
 }
