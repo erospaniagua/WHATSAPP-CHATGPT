@@ -17,6 +17,7 @@
     "chatgpt": "^5.0.5",
     "dotenv": "^16.0.3",
     "mime-types": "2.1.35",
+    "mongodb": "^5.1.0",
     "mongoose": "^7.0.0",
     "openai": "^3.2.1",
     "wa-sticker-formatter": "4.3.2"
