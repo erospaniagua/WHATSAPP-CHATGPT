@@ -13,10 +13,10 @@ async function runCompletion (messagew){
                    {"role": "user", "content": messagew}
                   ],
       });
-      console.log(completion.data.choices[0].message);
+    //   console.log(completion.data.choices[0].message);
       return completion.data.choices[0].message.content;
     
-}
+};
 module.exports={runCompletion}
 
 
